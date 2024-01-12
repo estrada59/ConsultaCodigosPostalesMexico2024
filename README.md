@@ -53,6 +53,8 @@ test.sql
 ## Estructura de la base de datos 🛠️
 
 ![DiagramaEntidadRelacion](https://user-images.githubusercontent.com/6250793/121298464-86bd7400-c8b9-11eb-8f10-05101a22f3db.png)
+https://github.com/estrada59/ConsultaCodigosPostalesMexico2024/blob/main/BaseDatos2024.PNG
+
 
 ## Construido con 🛠️
 
