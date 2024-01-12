@@ -59,6 +59,8 @@ https://raw.githubusercontent.com/estrada59/ConsultaCodigosPostalesMexico2024/ma
 
 <span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/estrada59/ConsultaCodigosPostalesMexico2024/master/BaseDatos2024.PNG</span><span>)</span>
 
+https://github.com/estrada59/ConsultaCodigosPostalesMexico2024/blob/main/BaseDatos2024.PNG?raw=true
+
 
 ## Construido con 🛠️
 
