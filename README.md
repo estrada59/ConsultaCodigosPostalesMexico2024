@@ -55,6 +55,10 @@ test.sql
 ![DiagramaEntidadRelacion](https://user-images.githubusercontent.com/6250793/121298464-86bd7400-c8b9-11eb-8f10-05101a22f3db.png)
 https://github.com/estrada59/ConsultaCodigosPostalesMexico2024/blob/main/BaseDatos2024.PNG
 
+https://raw.githubusercontent.com/estrada59/ConsultaCodigosPostalesMexico2024/master/BaseDatos2024.PNG
+
+<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/estrada59/ConsultaCodigosPostalesMexico2024/master/BaseDatos2024.PNG</span><span>)</span>
+
 
 ## Construido con 🛠️
 
