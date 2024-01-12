@@ -52,7 +52,7 @@ test.sql
 ```
 ## Estructura de la base de datos 🛠️
 
-![BaseDatos2024](https://github.com/estrada59/ConsultaCodigosPostalesMexico2024/assets/6250793/db967bf5-d754-4624-ab92-f20330158d68)
+![DiagramaEntidadRelacion](https://user-images.githubusercontent.com/6250793/121298464-86bd7400-c8b9-11eb-8f10-05101a22f3db.png)
 
 
 
@@ -66,12 +66,12 @@ _El proyecto se construyó usando las siguientes herramientas_
 Una vez instalado hay que ejecutar dentro de phpmyadmin el archivo ubicado en la carpeta Sql/test.sql
 con esto ya tendremos cargada la BD
 
-![TablasCargadas](https://user-images.githubusercontent.com/6250793/121299495-229baf80-c8bb-11eb-9e43-631099f68497.png)
+![BaseDatos2024](https://github.com/estrada59/ConsultaCodigosPostalesMexico2024/assets/6250793/db967bf5-d754-4624-ab92-f20330158d68)
 
 Posteriormente todos los archivos descargados hay que colocarlos en:
 
 ```
-C:\xampp\htdocs\ConsultaCodigosPostalesMexico
+C:\xampp\htdocs\ConsultaCodigosPostalesMexico2024
 ```
 Posteriormente ir al navegador y ejecutar el archivo index.php entrando al localhost/ConsultaCodigosPostalesMexico
 
