@@ -52,14 +52,8 @@ test.sql
 ```
 ## Estructura de la base de datos 🛠️
 
-![DiagramaEntidadRelacion](https://user-images.githubusercontent.com/6250793/121298464-86bd7400-c8b9-11eb-8f10-05101a22f3db.png)
-https://github.com/estrada59/ConsultaCodigosPostalesMexico2024/blob/main/BaseDatos2024.PNG
+![BaseDatos2024](https://github.com/estrada59/ConsultaCodigosPostalesMexico2024/assets/6250793/db967bf5-d754-4624-ab92-f20330158d68)
 
-https://raw.githubusercontent.com/estrada59/ConsultaCodigosPostalesMexico2024/master/BaseDatos2024.PNG
-
-<span>![</span><span>Aquí la descripción de la imagen por si no carga</span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/estrada59/ConsultaCodigosPostalesMexico2024/master/BaseDatos2024.PNG</span><span>)</span>
-
-https://github.com/estrada59/ConsultaCodigosPostalesMexico2024/blob/main/BaseDatos2024.PNG?raw=true
 
 
 ## Construido con 🛠️
