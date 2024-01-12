@@ -63,7 +63,7 @@ _El proyecto se construyó usando las siguientes herramientas_
 
 * [XAMPP](https://www.apachefriends.org/es/index.html) - XAMPP es una distribución de Apache completamente gratuita y fácil de instalar que contiene MariaDB, PHP y Perl.
 
-Una vez instalado hay que ejecutar dentro de phpmyadmin el archivo BD_Estados_Municipios_Asentamientos.sql
+Una vez instalado hay que ejecutar dentro de phpmyadmin el archivo ubicado en la carpeta Sql/test.sql
 con esto ya tendremos cargada la BD
 
 ![TablasCargadas](https://user-images.githubusercontent.com/6250793/121299495-229baf80-c8bb-11eb-9e43-631099f68497.png)
