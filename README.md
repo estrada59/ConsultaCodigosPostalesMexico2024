@@ -35,9 +35,10 @@ index.php
 Los datos para la creación de este archivo Sql  se obtuvieron de el Catálogo Nacional de Códigos Postales,
 es elaborado por Correos de México.
 
-Fuente:     http://www.cuentame.inegi.org.mx/territorio/division/default.aspx?tema=T
+Fuente:     https://www.cuentame.inegi.org.mx/territorio/division/default.aspx?tema=T
             https://www.correosdemexico.gob.mx/SSLServicios/ConsultaCP/Descarga.aspx
-
+            https://www.inegi.org.mx/app/ageeml/
+            
 Fecha de Obtencion de datos 04/06/2024.
 
 ```
