@@ -73,7 +73,7 @@ Posteriormente todos los archivos descargados hay que colocarlos en:
 ```
 C:\xampp\htdocs\ConsultaCodigosPostalesMexico2024
 ```
-Posteriormente ir al navegador y ejecutar el archivo index.php entrando al localhost/ConsultaCodigosPostalesMexico
+Posteriormente ir al navegador y ejecutar el archivo index.php entrando al localhost/ConsultaCodigosPostalesMexico2024
 
 ![Ejemplo](https://user-images.githubusercontent.com/6250793/121299733-7ad2b180-c8bb-11eb-9ce4-5f066c57763d.png)
 
